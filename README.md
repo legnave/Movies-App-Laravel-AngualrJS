@@ -1,4 +1,4 @@
-# Movies-Database-Laravel-AngualrJS-2
+# Movies-App-Laravel-AngualrJS
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26 and  [Laravel](http://laravel.com/docs)  version 5.3.
 
